@@ -1,2 +1,3 @@
-# ha-blueprints
-Home Assistant Blueprints that I have modified or written
+# Home Assistant Blueprints
+
+Home Assistant Blueprints that I have modified or written.
